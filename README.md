@@ -1,4 +1,4 @@
-# Previsão de Churn
+# Previsão de Churn de Clientes Bancários
 
 Este projeto utiliza aprendizado de máquina para prever o churn de clientes, com foco em minimizar falsos negativos e maximizar o recall para a classe de churn.
 
